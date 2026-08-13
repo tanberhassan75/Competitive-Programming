@@ -12,9 +12,9 @@ Competitive-Programming/
 └── 🟢 CSES/
 
 ## 🛠️ Platforms & Profiles
-* **Codeforces:** [tanberhassan75](https://codeforces.com/)
+* **Codeforces:** [tanberhassanmehedi](https://codeforces.com/)
 * **LeetCode:** [tanberhassan75](https://leetcode.com/)
-* **CodeChef:** [tanberhassan75](https://www.codechef.com/)
+* **CodeChef:** [tanberhassan](https://www.codechef.com/)
 
 ---
 *Happy Coding! 🚀*# Competitive-Programming
